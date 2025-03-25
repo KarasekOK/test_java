@@ -22,14 +22,14 @@ const fruits = ["apple", "banana", "kiwi", "orange", "strawberry"];
 
 // 1)
 const result1 = contains(fruits, "banana");
-console.log(result1);
+console.log(result1 == fruits);
 
 // 2)
-const result2 = size("I love learning!");
-console.log(result2);
+const result2 = size = "I love learning!";
+console.log(result2.length);
 
 // 3)
-const result3 = andMe(true, false);
+const result3 = andMe = (true && false);
 console.log(result3);
 
 // 4)
